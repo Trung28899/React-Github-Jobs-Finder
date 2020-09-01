@@ -20,3 +20,8 @@ I. Tools Used:
     that are not applicable anymore
 
     $ npm install react-markdown
+
+II. Deployment and Hosting: 
+  - Application is Deployed and Hosted on Firebase
+  - Link to Application: 
+    https://github-jobsfinder.web.app/
